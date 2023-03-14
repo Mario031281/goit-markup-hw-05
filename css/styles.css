@@ -91,9 +91,9 @@ button {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	border-bottom: 1px solid #e7e9fc;
 }
 .header {
+	border-bottom: 1px solid #e7e9fc;
 }
 
 .studio-header {
@@ -156,7 +156,7 @@ button {
 	border-radius: 2px;
 	position: absolute;
 	left: 0;
-	bottom: -1px;
+	bottom: -3px;
 }
 .address {
 }
